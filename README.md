@@ -1,6 +1,6 @@
 # Janssens: your friendly neighbourhood duplicate image finder
 
-Janssens is a simple script to search a file system folder for duplicate images. Janssens does not compare filenames, but the images themselves by calculating the dhash for every image and comparing them.
+Janssens is a simple script to search a file system folder for duplicate images. Janssens does not compare filenames, but the images themselves by calculating the [dhash](https://github.com/benhoyt/dhash) for every image and comparing them.
 
 ## Installation
 
